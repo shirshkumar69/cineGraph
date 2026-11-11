@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {spawnSync} from 'node:child_process';
+const root=process.cwd();
+const build=path.join(root,'dist/server/wrangler.json');
+if(!fs.existsSync(build))throw Error('Run npm run build before migrating the local database.');
+const config=JSON.parse(fs.readFileSync(build));
+config.main=path.join(root,'dist/server/index.js');
+config.assets.directory=path.join(root,'dist/client');
+config.d1_databases.forEach(db=>db.migrations_dir=path.join(root,'drizzle'));
+fs.mkdirSync('.sites-runtime',{recursive:true});
+const file=path.join(root,'.sites-runtime/local-migrations.json');
+fs.writeFileSync(file,JSON.stringify(config));
+const result=spawnSync(process.execPath,['--import',path.join(root,'scripts/sites-env.mjs'),path.join(root,'node_modules/wrangler/bin/wrangler.js'),'d1','migrations','apply','DB','--local','--config',file,'--persist-to',process.env.CINEGRAPH_DB_PATH||path.join(root,'.wrangler/state')],{stdio:'inherit'});
+process.exit(result.status??1);

@@ -1,0 +1,1171 @@
+{
+  "fetchedAt": 1794385213259,
+  "sourceRegion": "us",
+  "sourceUrl": "https://itunes.apple.com/us/rss/topmovies/limit=100/json",
+  "movies": [
+    {
+      "id": "apple-6808370288",
+      "title": "Heart of the Beast",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "After a harrowing plane crash, Special Forces veteran James Belmont (Brad Pitt) and his loyal combat dog, Odin, are stranded deep in the unforgiving Alaskan wilderness. With hope running thin, the two must rely on their training, instincts and each other in a brutal fight for survival. From acclaimed filmmaker David Ayer, HEART OF THE BEAST is an intense adventure thriller about courage, sacrifice and the unbreakable bond between two combat partners facing their greatest battle yet.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/66/4c/c9/664cc989-15d8-c0b0-f272-848ce2ea11af/Heart_of_the_Beast_EN_2000x3000.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/heart-of-the-beast/id6808370288?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6807575287",
+      "title": "Resident Evil (2026)",
+      "year": 2026,
+      "genres": [
+        "Horror"
+      ],
+      "minutes": null,
+      "description": "From the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling — and terrifying — reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows Bryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/55/73/ea/5573ea8f-0627-4e78-194f-9498c5fd75c8/DP_10615928_RESIDENTEVIL_2026_2000x3000_HEKeyArt.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/resident-evil-2026/id6807575287?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6793590242",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "It's a BRAND NEW DAY for Peter Parker. Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see. The world may have forgotten Peter Parker, but he hasn't forgotten them.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1d/28/d7/1d28d78b-a9e3-b0de-fb36-de221d09e2c6/DP_10459864_SPIDER-MANBRANDNEWDAY_2000x3000_PreorderKeyArt_English.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/spider-man-brand-new-day/id6793590242?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6817876384",
+      "title": "Primetime",
+      "year": 2026,
+      "genres": [
+        "Thriller"
+      ],
+      "minutes": null,
+      "description": "Inspired by true events in 2006, To Catch a Predator host Chris Hansen (Robert Pattinson) sets out to make television history. When a high stakes operation goes wrong, his dream of fame curdles into a nightmare.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/80/61/85/80618575-5bd7-88d9-1a2f-3be8bc13ea39/A24-Primetime-Transactional-Movies-Cover.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/primetime/id6817876384?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6818253143",
+      "title": "Musk",
+      "year": 2026,
+      "genres": [
+        "Documentary"
+      ],
+      "minutes": null,
+      "description": "An incisive look behind the legend of Elon Musk, the world’s most heralded ‘inventor-entrepreneur’ who has enormous influence on the world in which we all live.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/87/e8/41/87e841c6-1f9f-d652-b025-36744ac2a7c5/MUSK_Amazon_keyart_2000x3000_extendedcut_2.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/musk/id6818253143?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6808034868",
+      "title": "Verity",
+      "year": 2026,
+      "genres": [
+        "Thriller"
+      ],
+      "minutes": null,
+      "description": "Ghostwriting for Verity Crawford, writer Lowen Ashleigh discovers a chilling autobiography and disturbing confessions that blur fiction and reality.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/verity/id6808034868?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1748285955",
+      "title": "Godzilla Minus One",
+      "year": 2023,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "Academy Award® Winner Best Visual Effects. In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d5/0f/f4/d50ff4be-df9b-bc13-1b83-e01606846e92/46de10c8-3258-4024-8071-09b86100d053_GMO_TohoIntl_V2_.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/godzilla-minus-one/id1748285955?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6817052242",
+      "title": "Other Mommy",
+      "year": 2026,
+      "genres": [
+        "Horror"
+      ],
+      "minutes": null,
+      "description": "Academy Award® winner Jessica Chastain stars in a terrifying trip into the darkening world of a young girl, Bela, who forms a relationship with a disturbing entity in her home who looks uncannily like her own mother. \"Other Mommy\" proves to be more than a mere figment of the girl's imagination as she becomes a sinister, manipulative presence determined to tear apart Bela's family.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/78/e8/73/78e873a6-5e2b-7eb5-608e-7b429b668a49/OtherMommy_LSR_2000x3000.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/other-mommy/id6817052242?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6825120884",
+      "title": "Sense and Sensibility (2026)",
+      "year": 2026,
+      "genres": [
+        "Drama"
+      ],
+      "minutes": null,
+      "description": "An irresistible new take on Jane Austen's iconic Sense & Sensibility, this sweeping and deeply relatable story follows two sisters as they navigate love, heartbreak, and the bonds that unite them.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/42/f2/04/42f2040e-abd9-69b7-70f5-59a983d83199/SENSE_AND_SENSIBILITY_PVOD_LSR_2000x3000_Poster.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/sense-and-sensibility-2026/id6825120884?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6805025142",
+      "title": "Coyote vs. Acme",
+      "year": 2026,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "After ACME products fail Wile E. Coyote one too many times in his pursuit of the Roadrunner, Wile E. Coyote decides to hire a down-on-his-luck human attorney to sue the ACME Corporation, represented by Buddy Crane, the slick, formidable, legal counsel for profit-obsessed ACME.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9e/b9/1a/9eb91a5c-41b5-d06a-f053-809d77037bd8/COYOTE_VS_ACME__Apple_poster_art_2000x3000.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/coyote-vs-acme/id6805025142?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6788867495",
+      "title": "The End of Oak Street",
+      "year": 2026,
+      "genres": [
+        "Thriller"
+      ],
+      "minutes": null,
+      "description": "When a cosmic anomaly shatters suburbia, one family is thrust into a high-stakes, reality-bending adventure where time collapses, chaos moves in next door, and survival depends on sticking together.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-end-of-oak-street/id6788867495?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6805267689",
+      "title": "By Any Means",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "Inspired by a true story. In 1960s Mississippi, a straight-laced FBI agent partners with a ruthless Mafia hitman, but their pursuit of justice leads them further from the law.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2a/b3/71/2ab37114-7fc2-195e-523c-689d8310900f/By_Any_Means_EN_AMZ_2000x3000.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/by-any-means/id6805267689?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6799184988",
+      "title": "Runner",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "A former soldier (Alan Ritchson) is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner (Owen Wilson) the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f9/fd/0f/f9fd0fee-e646-8a3b-33f4-ac0fd3158140/Runner-Title-Art-2000x3000.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/runner/id6799184988?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6803706922",
+      "title": "Practical Magic 2",
+      "year": 2026,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "Starring Sandra Bullock and Nicole Kidman, PRACTICAL MAGIC 2 returns to a world steeped in moonlit mischief and powerful ancestral magic, as the Owens sisters must confront the dark curse that threatens to unravel their family once and for all in a must-see cinematic event of fun, magic and mayhem.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d8/ec/a2/d8eca2fc-807c-c146-6818-bf085c851ab6/Practical_Magic_2_PREM_V_KA_TT_2000x3000_EN.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/practical-magic-2/id6803706922?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6799165508",
+      "title": "Buddy",
+      "year": 2026,
+      "genres": [
+        "Horror"
+      ],
+      "minutes": null,
+      "description": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/57/bb/eb/57bbeb9a-7c80-667a-ad01-36e44781e245/Buddy_U00282026_U0029_iTunesStore_2000x3000_CoverArt.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/buddy/id6799165508?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6812502198",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "genres": [
+        "Documentary"
+      ],
+      "minutes": null,
+      "description": "Following the finale of his acclaimed HBO series “How To with John Wilson”, NYC documentarian John Wilson looks to the bedrock of his beloved New York City for inspiration and structure. Concrete, the world's most widely used building material, appears as an ever-present life force, and John sets out to make the definitive documentary on the matter. After attending a workshop on how to write and sell a Hallmark movie, he decides to use the industry-approved Hallmark formula to tell this seemingly drab story and increase his movie’s appeal. But his foundation soon begins to crumble—literally and figuratively—as he struggles to balance artistic freedom with the realities of the modern film industry.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1a/0c/36/1a0c369a-92b2-fde6-3abd-9ecdc2fc7845/MAG_HISTORY_OF_CONCRETE_THE_TH_POSTER_WW_ARTWORK_EN_2000x3000_5JPP3G00000214.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-history-of-concrete/id6812502198?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6812633424",
+      "title": "The Dog Stars",
+      "year": 2026,
+      "genres": [
+        "Thriller"
+      ],
+      "minutes": null,
+      "description": "Ridley Scott’s “The Dog Stars” is a riveting, epic thriller set in a world where survival is instinct, but humanity is a choice. Scott tells the story of Hig (Jacob Elordi), a young pilot who, together with a military survivalist, Bangley (Josh Brolin), has carved out an efficient but isolated homestead in a brutal post-apocalyptic world. When a mysterious radio transmission reaches Hig, it spurs him to venture into the unknown in search of the hope and humanity he still believes exists. Based on Peter Heller’s captivating bestseller, “The Dog Stars” features a critically acclaimed ensemble, including Margaret Qualley and Guy Pearce. The film is written by Mark L. Smith and directed by Ridley Scott. Some flashing lights sequences or patterns may affect photosensitive viewers.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b4/9b/54/b49b5457-ecf6-b887-9ad6-45a8daa934b4/TheDogStars_Apple_CoverArt_2000x3000.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-dog-stars/id6812633424?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6816251186",
+      "title": "Your Mother Your Mother Your Mother",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood as he embarks on a desperate journey to protect his children.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9a/a0/2c/9aa02c08-1b50-39bf-3be8-c7e6c4f709c4/2000x3000_YourMotherYourMotherYourMother.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/your-mother-your-mother-your-mother/id6816251186?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6811252847",
+      "title": "Forgotten Island",
+      "year": 2026,
+      "genres": [
+        "Family"
+      ],
+      "minutes": null,
+      "description": "On their last night before embarking on separate life paths, best friends Jo and Raissa find a mysterious portal that transports them to Nakali, a mythical island filled with magical creatures they learned about from their Filipino families. As Jo and Raissa search for a way home, they discover their memories are at risk. Will they find a way off the island before they forget each other forever?",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/56/60/1d/56601def-79d1-cbdc-2d36-a0c646469283/ForgottenIsland_AllWindow_LSR_2000x3000.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/forgotten-island/id6811252847?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1895945921",
+      "title": "Obsession (2026)",
+      "year": 2026,
+      "genres": [
+        "Horror"
+      ],
+      "minutes": null,
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/db/16/26db1681-d180-1d95-cb5d-7c6f3199e8fe/OBSESSION_PVOD_LSR_2000x3000_Poster.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/obsession-2026/id1895945921?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6803816574",
+      "title": "Super Troopers 3",
+      "year": 2026,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "Everyone’s favorite cops are back with “Super Troopers 3,” the third installment of the comedy classic from the Broken Lizard crew. When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring — all to save the day and maybe the wedding itself.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/5c/62/39/5c623928-ca56-b8a6-0e03-d6718352b4e1/SuperTroopers3_EHV_Apple_Poster_2000x3000.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/super-troopers-3/id6803816574?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6799248851",
+      "title": "Hope",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "In the small town of Hope Harbor, a group of police officers and hunters attempt to track down a mysterious creature wreaking havoc. What begins as a search for a wild animal becomes a catastrophe of cosmic proportions as they become prey for these otherworldly beings.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e9/85/8b/e9858b8b-8883-3801-0cd1-470f0685e1a5/Neon_Hope_Poster_2000x3000_R1.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/hope/id6799248851?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1747079458",
+      "title": "Godzilla Minus One Minus Color",
+      "year": 2024,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "Academy Award® Winner Best Visual Effects. In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9d/45/b5/9d45b515-44e1-a9d8-27b3-814eb9897c4c/GMOMC_Tohointl.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/godzilla-minus-one-minus-color/id1747079458?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6796830768",
+      "title": "Insidious: Out of the Further",
+      "year": 2026,
+      "genres": [
+        "Horror"
+      ],
+      "minutes": null,
+      "description": "In Insidious: Out of the Further, Amelia Eve stars as Gemma, a young mother raising her daughter in the house she grew up in who discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c3/e4/5a/c3e45a67-bd8f-848e-b34d-b0d8b0ef99fc/SPE_INSIDIOUS_OUT_OF_THE_FURTHER_TH_PRE_WW_ARTWORK_EN-US_2000x3000_3U6QFC000008DU.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/insidious-out-of-the-further/id6796830768?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1440401528",
+      "title": "Illumination Presents: Dr. Seuss' The Grinch",
+      "year": 2018,
+      "genres": [
+        "Family"
+      ],
+      "minutes": null,
+      "description": "Illumination and Universal Pictures present The Grinch, based on Dr. Seuss' beloved classic. The Grinch tells the story of a cynical grump who goes on a mission to steal Christmas, only to have his heart changed by a young girl’s generous spirit. Funny, heartwarming and visually stunning, The Grinch is fun for the whole family!",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/3b/ff/bb/3bffbba0-0e10-ec77-26a3-6b8561739de5/Grinch_Holiday_LSR_2000x3000.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/illumination-presents-dr-seuss-the-grinch/id1440401528?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-562566593",
+      "title": "The Polar Express",
+      "year": 2004,
+      "genres": [
+        "Family"
+      ],
+      "minutes": null,
+      "description": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/5f/83/b3/5f83b35d-281a-ef87-8adf-82d6ee0ed136/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-polar-express/id562566593?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-286621192",
+      "title": "Dr. Seuss' How the Grinch Stole Christmas",
+      "year": 2000,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "Discover the magic of the Mean One this holiday season! Oscar-winning director Ron Howard and Oscar®-winning producer Brian Grazer bring Christmas' best-loved grump to life with the help of the irrepressible Jim Carrey as The Grinch. The Grinch is a celebration of the holiday spirit no home should be without! Why is The Grinch (Carrey) such a grouch? No one seems to know, until little Cindy Lou Who (Taylor Momsen) takes matters into her own hands and turns both Whoville and The Grinch's world upside down, inside out…and funny side up in her search for the true meaning of Christmas.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/bf/0b/e1/bf0be135-a099-6281-4a63-84faf9ac15be/contsched.kgbrgwoe.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/dr-seuss-how-the-grinch-stole-christmas/id286621192?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1896844187",
+      "title": "Disclosure Day",
+      "year": 2026,
+      "genres": [
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "minutes": null,
+      "description": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you? Now the truth belongs to seven billion people in an original event film created and directed by Steven Spielberg, from a screenplay by David Koepp, starring Emily Blunt, Josh O'Connor, Colin Firth, Eve Hewson, and Colman Domingo.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c4/e1/7f/c4e17f16-e085-54d5-bc1d-7c99258bf053/UNI_DISCLOSURE_DAY_TH_ITUNES_EPO_WW_ARTWORK_EN_2000x3000_5F1LFI0000046N.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/disclosure-day/id1896844187?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6818678657",
+      "title": "Crawlers",
+      "year": 2026,
+      "genres": [
+        "Horror"
+      ],
+      "minutes": null,
+      "description": "When a deadly breed of flesh-eating arachnids is unleashed inside an apartment building, the tenants are quarantined. To survive the venomous onslaught, they must rely on Serena—their underappreciated building manager. She is the residents' only hope for survival, but first, she must conquer her own deepest fears before the government takes drastic, lethal action.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/28/fd/65/28fd65b1-13e0-6281-d3cb-c6f3af423b65/SPE_CRAWLERS_TH_ITUNES_WW_ARTWORK_EN-US_2000x3000_5LZDOO000005NR.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/crawlers/id6818678657?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6802507831",
+      "title": "Tony",
+      "year": 2026,
+      "genres": [
+        "Drama"
+      ],
+      "minutes": null,
+      "description": "A 19-year-old Anthony Bourdain stumbles into the chaotic world of a Provincetown restaurant kitchen, setting off a summer that will shape the course of his life.  TONY captures the sun-soaked feeling of summer in this origin story of the voice that defined a generation.  Directed by Matt Johnson and anchored by Dominic Sessa, Antonio Banderas and a rowdy ensemble.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/78/96/a4/7896a487-da45-708f-3b99-021a7bad0e94/TONVOD_36_DIGITAL_FINAL_2000x3000_V1.0.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/tony/id6802507831?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6788028326",
+      "title": "PAW Patrol: The Dino Movie",
+      "year": 2026,
+      "genres": [
+        "Family"
+      ],
+      "minutes": null,
+      "description": "After their ship gets caught in a mysterious storm, the PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs. They meet Rex, a pup who has been stranded on the island for years and has become an expert in all things dino-related. When the PAW Patrol's archrival, Mayor Humdinger, begins recklessly mining in hopes of exploiting the island for its natural resources, he inadvertently causes a huge, dormant volcano to erupt. The PAW Patrol pups are thrown into a series of high-stakes, dino-sized rescues bigger than anything they've done before, as they must stop Humdinger before everything on the island goes extinct.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/b9/de/b1b9de57-d72f-eb90-4f9e-d8dc1fa6ad84/PawPatrolDinoMovie_EN_Full_Mech.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/paw-patrol-the-dino-movie/id6788028326?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6801608783",
+      "title": "Mutiny",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "From director Jean-François Richet (Plane), the intense action thriller Mutiny stars Jason Statham as former Royal Marine commando Cole Reed. After witnessing his billionaire boss's murder and being framed for the crime, Reed boards a cargo ship as a stowaway in search of answers. As the ship's crew of former mercenaries closes in, Reed launches a one-man crusade to avenge his boss's death, only to uncover an international conspiracy. Also starring Annabelle Wallis (The Mummy), Adrian Lester (The Day After Tomorrow), and Roland Møller (Skyscraper).",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/8e/c2/96/8ec29688-cdec-cf19-72eb-bc4506c16feb/Mutiny_iTunesStore_Movies_Cvr.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/mutiny/id6801608783?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6785562001",
+      "title": "The Weight",
+      "year": 2026,
+      "genres": [
+        "Thriller"
+      ],
+      "minutes": null,
+      "description": "When Samuel (Ethan Hawke) is torn from his daughter and sent to a brutal prison, Warden Clancy (Russell Crowe) offers a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom. But as the group journeys into the unforgiving wilderness, the real threat isn’t the terrain - it’s the betrayal and violence festering within their ranks. Surrounded by greed, suspicion, and danger, Samuel must risk everything to reunite with his child.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/52/bf/aa/52bfaa8f-eaff-505a-0322-0eb1effe5a98/TheWeight_iTunes_Poster_2000x3000.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-weight/id6785562001?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-188703703",
+      "title": "Tombstone",
+      "year": 1993,
+      "genres": [
+        "Other"
+      ],
+      "minutes": null,
+      "description": "In the western boomtown of Tombstone, Arizona, crime rules the streets. Violence is a way of life, and law and order have surrendered to the ruthless gunmen who wreak havoc and terror on the innocent. ...until Wyatt Earp rides into town. After retiring as marshall of dodge city, Wyatt has come to tombstone to settle down and run a business. However, he is soon compelled against his wishes to take a stand against the lawless, whose malevolent actions threaten to consume the entire town. Despite his longing for a peaceful life, Wyatt has no choice but to strap on his holster and pin the U.S. marshall's badge to his vest. Along with his friend, the lethal and unpredictable Doc Holliday, and brothers Morgan and Virgil, he sets out to wrest control of the city from the clutches of anarchy. On a stark, windswept day seething with tension, these four men stride toward a battle they neither wanted nor expected. All hell breaks looses as Earp and his men come face to face with the evil that grips tombstone, and they are drawn into one of the bloodiest feuds in the history of the old west.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/62/f4/14/62f414b7-16f2-cae7-d985-2091f0199b08/DIS_TOMBSTONE_ITUNES_ARTWORK_WW_ARTWORK_EN_2000x3000_4RYE5S000008KY.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/tombstone/id188703703?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6779829484",
+      "title": "Minions & Monsters",
+      "year": 2026,
+      "genres": [
+        "Family"
+      ],
+      "minutes": null,
+      "description": "Illumination expands its joyful Minions universe with a riotous chapter featuring all-new characters in the biggest global animated franchise in history. This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood as movie stars, lost everything, unleashed monsters onto the world and then banded together to try saving the planet from the mayhem they created.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e1/8b/fd/e18bfd92-6134-5d01-561a-ff576fc03df6/tns.jfvslrom.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/minions-monsters/id6779829484?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-281302550",
+      "title": "Matilda",
+      "year": 1996,
+      "genres": [
+        "Family"
+      ],
+      "minutes": null,
+      "description": "See the world from a kid's-eye view with Matilda, a modern fairytale that mixes hilarious humor with the magical message of love. Mrs. Doubtfire's Mara Wilson stars as Matilda, a super-smart little girl who's woefully misunderstood by her parents (Danny DeVito and Rhea Perlman), her brother, and an evil school principal. But with the help of a brave best friend and a wonderful teacher, Matilda discovers she doesn't have to get mad to get even.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/3b/b3/03/mzi.oqeatbjy.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/matilda/id281302550?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1462805716",
+      "title": "Godzilla: King of the Monsters (2019)",
+      "year": 2019,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "The story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e1/8c/df/e18cdfcb-3ca7-bd76-f566-1ed7d248f01e/1a5713f8-7a8f-4fb7-a6da-7b79bc7ae5ff_MV_2024_GODZILLA-KOTM_V_DD_KA_TT_2000x3000_300dpi_EN.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/godzilla-king-of-the-monsters-2019/id1462805716?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6822105275",
+      "title": "Daniel and the Fiery Furnace",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "Daniel and the Fiery Furnace is an epic live-action biblical drama that brings the origin story of the prophet Daniel to life against the backdrop of exile in Babylon. As Daniel rises within a powerful and unforgiving empire, a ruthless king issues a decree demanding absolute worship under penalty of death. When three faithful men—Shadrach, Meshach, and Abednego—refuse to bow, they choose to be cast into a blazing furnace rather than betray their God. In the face of impossible odds, their defiance ignites a miracle that is seen around the world.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b0/80/a1/b080a18c-d3c3-759c-0d9c-ebdebd175dae/PP_DanielandtheFieryFurnace_2026.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/daniel-and-the-fiery-furnace/id6822105275?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1895068395",
+      "title": "Michael",
+      "year": 2026,
+      "genres": [
+        "Drama"
+      ],
+      "minutes": null,
+      "description": "Michael is the cinematic portrayal of the life and legacy of one of the most influential artists the world has ever known. The film tells the story of Michael Jackson's life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world. Highlighting both his life off-stage and some of the most iconic performances from his early solo career, the film gives audiences a front-row seat to Michael Jackson as never before. This is where his story begins. Lionsgate presents, in association with Universal Pictures, a GK Films production, an Optimum production.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/96/6f/02/966f02ff-4212-fafe-3c8c-fc03b4541ca3/Michael_iTunesStore_Movies_Cvr.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/michael/id1895068395?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6796485941",
+      "title": "I Want Your Sex",
+      "year": 2026,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "In the latest from New Queer Cinema pioneer Araki (“Mysterious Skin”), I Want Your Sex tells the story of Elliot (Cooper Hoffman), a kind-hearted if unmotivated twentysomething whose fantasies quickly come true when he lands a job with renowned artist and provocateur Erika Tracy (Olivia Wilde). When Erika breaks down office boundaries and takes Elliot on as her sexual muse and subordinate, their sexually charged relationship makes him question his own desires, boundaries and relationships with his uptight girlfriend (Charli xcx) and repressed roommate (Chase Sui Wonders). As the stakes heighten and power dynamics shift, the film mixes satire, romantic comedy, mystery and murder through the colorful and edgy visual language for which Araki is known.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ca/8b/c8/ca8bc8f3-864d-f8c8-472d-bf70b0e238cd/2000x3000.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/i-want-your-sex/id6796485941?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6822014666",
+      "title": "Falling",
+      "year": 2026,
+      "genres": [
+        "Romance"
+      ],
+      "minutes": null,
+      "description": "Johnny never expected to fall for Jillian— the enchanting girlfriend of his best friend, Jack. But as their forbidden attraction ignites, Johnny must choose between his first real love and the friendship that means everything.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/bb/23/66/bb236631-e2a1-35b6-bbcd-bc32187d02a1/Falling_Digital_2000x3000.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/falling/id6822014666?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1179249419",
+      "title": "La La Land",
+      "year": 2016,
+      "genres": [
+        "Romance"
+      ],
+      "minutes": null,
+      "description": "Winner of 6 Academy Awards® including Best Director for writer-director Damien Chazelle, and winner of a record-breaking 7 Golden Globe® awards, La La Land is more than the most acclaimed movie of the year — it’s a cinematic treasure for the ages that you’ll fall in love with again and again. Emma Stone and Ryan Gosling star as Mia and Sebastian, an actress and a jazz musician pursuing their Hollywood dreams — and finding each other — in a vibrant celebration of hope, dreams, and love.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/0d/82/1e/0d821e86-68a8-923c-753f-fd2b53cecce3/iTunes_LaLaLand_2000x3000.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/la-la-land/id1179249419?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6825445516",
+      "title": "De Gaulle Part I: Resistance",
+      "year": 2026,
+      "genres": [
+        "Thriller"
+      ],
+      "minutes": null,
+      "description": "In June 1940, as the French army collapses, General de Gaulle refuses the armistice. He flies to London, where he lays the foundations of the Resistance.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/70/6d/7f/706d7f08-dbc5-ef9c-b97f-c437f7b959f8/deGAULLE_part1_itunes_2000x3000.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/de-gaulle-part-i-resistance/id6825445516?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6803706730",
+      "title": "Bad Apples",
+      "year": 2026,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "Maria, a primary school teacher doing her best to inspire a class of 10-year-olds, is stifled by one unruly and chaotic student. With her career in question and the child's behavior spiraling, she makes a series of questionable decisions that lead to her accidentally taking and locking this \"bad apple\" in her home. Maria tries desperately to backtrack, but when the class starts flourishing and the staff and parents are thrilled with the improvement, she finds herself in a very complicated predicament.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e5/31/e2/e531e26d-00ce-a69d-2e82-c5fcffb33c0c/Bad_Apples_EN_2000x3000.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/bad-apples/id6803706730?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1550850447",
+      "title": "What We Do In the Shadows",
+      "year": 2015,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "Housemates Viago, Deacon, and Vladislav are three vampires who are trying to get by in modern society; from paying rent and doing housework to trying to get invited into nightclubs, they’re just like anyone else - except they’re immortal and must feast on human blood. When their 8000 year-old roommate Petyr, turns 20-something human hipster Nick, into a vampire, the guys must guide him through his newfound eternal life. In return, they are forced to learn a thing or two about modern society, fashion, technology, and the internet. But it’s the introduction of Nick’s human friend, Stu, that really changes the vampires’ lives and attitudes towards the world around them. When Stu’s life is threatened, the vampires discover that humans are worth fighting for, and thateven though a heart may be cold and dead, it can still have feelings.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/4f/3b/2e/4f3b2e25-7086-e96f-d12e-3b43c16248be/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/what-we-do-in-the-shadows/id1550850447?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-476869088",
+      "title": "In Time",
+      "year": 2011,
+      "genres": [
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "minutes": null,
+      "description": "Every second counts in this sexy, stylish action-thriller starring Justin Timberlake and Amanda Seyfried. In a future where time is literally money and aging stops at 25, the only way to stay alive is to earn, borrow, steal or inherit more time. But when a poor, working-class man (Timberlake) is falsely accused of murder, he teams up with a beautiful heiress (Seyfried) and must figure out a way to bring down the corrupt system before their dwindling life clocks run out!",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video69/v4/58/4a/a7/584aa757-15fa-dec3-0474-63fc4f0ed1cf/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/in-time/id476869088?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-273050393",
+      "title": "Kingdom of Heaven",
+      "year": 2005,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "From Ridley Scott, the visionary director of Black Hawk Down and Gladiator, comes this spectacular epic of courage, honor and adventure. Orlando Bloom stars as Balian, a young Frenchman in Medieval Jerusalem during the Crusades, who, having lost everything, finds redemption in a heroic fight against overwhelming forces to save his people and fulfill his destiny as a knight.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video69/v4/07/5d/33/075d33d8-a86a-c8e1-a3cf-2a0a6f6590bb/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/kingdom-of-heaven/id273050393?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-301490915",
+      "title": "Taken (Extended Cut)",
+      "year": 2009,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "Get even more pulse-pounding action in this special extended cut of Taken! When his estranged daughter is kidnapped in Paris, a former spy (Liam Neeson) sets out to find her at any cost. Relying on his special skills, he tracks down the ruthless gang that abducted her and launches a one-man war to bring them to justice and rescue his daughter.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/04/50/98/dj.tciejzpb.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/taken-extended-cut/id301490915?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-595178029",
+      "title": "The Notebook",
+      "year": 2004,
+      "genres": [
+        "Drama"
+      ],
+      "minutes": null,
+      "description": "Behind every great love is a great story. As teenagers, Allie (Rachel McAdams) and Noah (Ryan Gosling) begin a whirlwind courtship that soon blossoms into tender intimacy. The young couple is quickly separated by Allie's upper-class parents who insist that Noah isn't right for her. Several years pass, and when they meet again, their passion is rekindled, forcing Allie to choose between her soulmate and class order. This beautiful tale has a particularly special meaning to an older gentleman (James Garner) who regularly reads the timeless love story to his aging companion (Gena Rowlands). Based on the best-selling novel by Nicholas Sparks, The Notebook is at once heartwarming and heartbreaking and will capture you in its sweeping and emotional force.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/04/e3/81/04e38136-3241-48aa-ba64-025e0fd2cbe7/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-notebook/id595178029?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6786801261",
+      "title": "The Invite",
+      "year": 2026,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into hilariously unexpected places and emotional revelations. Have they reignited the spark or lit the match that burns it all down? Olivia Wilde (Don't Worry Darling, Booksmart) directs a side-splitting examination of the compromises sometimes required by adult life and the chance encounters that can shake us out of complacency. This delightfully charming comedy is anchored by a veteran ensemble starring Seth Rogen, Penélope Cruz and Edward Norton.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d3/0d/4c/d30d4cbd-888c-5784-5ff1-812c985f9ede/A24-TheInvite-Transactional-Movies-Cover.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-invite/id6786801261?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1640366258",
+      "title": "The 'Burbs",
+      "year": 1989,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "Academy Award®-winner Tom Hanks stars in this hilarious satire of modern suburban life. When Hanks becomes convinced that his new, intensely private neighbors are members of an evil cult, he struggles to get behind their closed doors with outrageous results. Director Joe Dante (Gremlins) infuses the film with wicked black humor, lampooning everything from family life to classic film.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/87/aa/3b/87aa3bb6-6148-2a4d-8951-19ed58424ca4/Burbs_LSR_2000x3000.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-burbs/id1640366258?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1209705645",
+      "title": "Kong: Skull Island",
+      "year": 2017,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "When a scientific expedition to an uncharted island awakens titanic forces of nature, a mission of discovery becomes an explosive war between monster and man. Tom Hiddleston, Samuel L. Jackson, Brie Larson, John Goodman and John C. Reilly star in a thrilling and original adventure that reveals the untold story of how Kong became King.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/46/1e/c7/461ec7e6-69c9-813d-dee6-c718dfede01f/de74a8de-ccf6-4de7-becb-3ac50c0cd5e7_MV_2024_KONG-SI_V_DD_KA_TT_2000x3000_300dpi_EN.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/kong-skull-island/id1209705645?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1827318553",
+      "title": "The Bad Guys 2",
+      "year": 2025,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "Everyone's favorite felons are back, and this time, they've got company. In the new action-packed chapter from DreamWorks Animation's acclaimed comedy smash about a crackerjack crew of animal outlaws, the now-reformed Bad Guys are trying (very, very hard) to be good—but get hijacked into a globe-trotting heist led by a new crew they never saw coming: The Bad Girls.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/75/2d/b1/752db141-4ebc-da2f-fd35-3ff48969670e/UNI_BAD_GUYS_2_THE_TH_ITUNES_MLNA_PREORDER_WW_ARTWORK_EN_2000x3000_4YIX4H000003B6.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-bad-guys-2/id1827318553?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6814549351",
+      "title": "The Incomer",
+      "year": 2026,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "Sundance award-winning comedy, The Incomer, is a modern folk fairy tale set on a remote Scottish island, where two siblings survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded ‘Incomers’. Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland on behalf of the government.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/33/83/c7/3383c7fe-7857-49d1-40fe-85d3ae8b8836/INC_Apple_key_2000x3000.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-incomer/id6814549351?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-572877870",
+      "title": "National Lampoon's Christmas Vacation",
+      "year": 1989,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "Clark Griswold, the well-intentioned, walking disaster who has dragged his family through the horrors of traveling in two previous National Lampoon Vacation films, has decided to stay home for the holidays--and the neighborhood will never be the same.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/3e/8c/a5/3e8ca58e-6012-a6c1-6319-1e9c975e9dd9/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/national-lampoons-christmas-vacation/id572877870?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-642757474",
+      "title": "The Incredible Burt Wonderstone",
+      "year": 2013,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "Superstar magicians Burt Wonderstone (Steve Carell) and Anton Marvelton (Steve Buscemi) have ruled the Las Vegas strip for years, raking in millions with illusions as big as Burt's growing ego. But lately the duo's greatest deception is their public friendship, while secretly they've grown to loathe each other. Facing cutthroat competition from guerilla street magician Steve Gray (Jim Carrey), whose cult following surges with each outrageous stunt, even their show looks stale. But there's still a chance Burt and Anton can save the act -- both onstage and off -- if Burt can get back in touch with what made him love magic in the first place.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video2/v4/bb/fa/f1/bbfaf189-14fb-5f8b-6264-5b3ed50b3f04/mza_7821910032047336646.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-incredible-burt-wonderstone/id642757474?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1715087295",
+      "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+      "year": 2023,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "In this prequel to The Hunger Games, a young Coriolanus (Tom Blyth) is the last hope for the once-proud Snow family that has fallen from grace in a post-war Capitol. Snow reluctantly takes an assignment to mentor Lucy Gray Baird (Rachel Zegler), a tribute from the impoverished District 12. But after Lucy Gray’s charm captivates Panem’s audience, Snow unites with Lucy Gray to turn the odds in their favor. Battling his instincts for both good and evil, Snow races against time to survive — and reveal if he will ultimately become a songbird or a snake.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/5e/05/a9/5e05a98f-1a69-cb03-38d7-30560cb5d566/THG_BSS_iTunes_Transactional-Movies-Cover.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-hunger-games-the-ballad-of-songbirds-and-snakes/id1715087295?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6805950597",
+      "title": "Fall 2: Deadpoint",
+      "year": 2026,
+      "genres": [
+        "Thriller"
+      ],
+      "minutes": null,
+      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/29/36/18/293618a3-a553-cf97-49b3-1e062b2ee655/FALL2_Deadpoint_iTunesStore_Movies_Cvr.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/fall-2-deadpoint/id6805950597?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-669947696",
+      "title": "The Great Gatsby (2013)",
+      "year": 2013,
+      "genres": [
+        "Drama"
+      ],
+      "minutes": null,
+      "description": "The uniquely imaginative Baz Luhrmann (Moulin Rouge!, Australia) tackles F. Scott Fitzgerald's landmark novel, The Great Gatsby, with blockbuster star Leonardo DiCaprio in the title role. Spider-Man's Tobey Maguire stars as the Fitzgerald-like would-be writer Nick Carraway who arrives in New York in 1922, an era of loose morals, glittering jazz and bootleg kings. Chasing his own American Dream, Nick encounters the mysterious millionaire Gatsby and his bewitching cousin Daisy. Soon, Nick is drawn into the captivating world of the super-rich, their illusions, loves and deceits. Bearing witness to this new world, Nick pens a tale of impossible love, incorruptible dreams and unforgettable tragedy -- mirroring our own times and struggles.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/b5/67/54/b5675441-a7da-ade8-50e7-09e2999beab8/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-great-gatsby-2013/id669947696?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-272819260",
+      "title": "Eyes Wide Shut",
+      "year": 1999,
+      "genres": [
+        "Drama"
+      ],
+      "minutes": null,
+      "description": "Tom Cruise and Nicole Kidman star as a married couple entangled in an intricate web of jealousy and sexual obsession in Stanley Kubrick's final cinematic offering. At a Christmas party hosted by wealthy, unconventional Victor Ziegler (Sydney Pollack), provocative advances and innocent flirtations arouse suspicion as high-society physician Dr. William Harford (Cruise) and his sexy wife, Alice (Kidman) watch each other from a distance. Alone later, this seemingly perfect couple confront their intimate sexual fantasies--which don't include each other. Caught between reality and illusion, jealousy and obsession, William struggles with his inner urges. Will he act on his erotic fantasies or keep them hidden deep inside? Sometimes a man can see more clearly with his Eyes Wide Shut.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video69/v4/99/85/01/99850167-aa97-975b-7ee0-e2321217420a/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/eyes-wide-shut/id272819260?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1880810604",
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "Stranded light years from home, Ryland Grace must save the dying sun—with help from an unlikely friend.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/72/91/05/72910566-11dc-349d-00f6-9320bb8f5f86/2000x3000_ProjectHailMary.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/project-hail-mary/id1880810604?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1338530881",
+      "title": "Shrek",
+      "year": 2001,
+      "genres": [
+        "Family"
+      ],
+      "minutes": null,
+      "description": "Once upon a time in a far away swamp, there lived an ornery ogre named Shrek whose precious solitude is suddenly shattered by an invasion of annoying fairy-tale characters. There are blind mice in his food, a big, bad wolf in his bed, three little homeless pigs and more, all banished from their kingdom by the evil Lord Farquaad.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f0/4c/ea/f04cea31-92b3-5ddb-25ec-81fd18778679/P_Shrek_2001_TA_P67_2000x3000_en_V1_DY6_AM.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/shrek/id1338530881?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6820652271",
+      "title": "American Doctor",
+      "year": 2026,
+      "genres": [
+        "Documentary"
+      ],
+      "minutes": null,
+      "description": "United by a shared oath to save lives, three American doctors—Palestinian, Jewish, and Zoroastrian—work in a besieged hospital in Gaza and return to the United States to fight for the patients and colleagues they left behind.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/6b/52/ce/6b52ce94-1707-3329-8c6f-70333d9fe00e/AmericanDoctor_Apple_2000x3000_Poster.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/american-doctor/id6820652271?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-279386406",
+      "title": "Demolition Man",
+      "year": 1993,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "The future isn't big enough for the both of them--the 21st century's most dangerous cop and the 21st century's most ruthless criminal. Sandra Bullock stars as a 21st century cop who resorts to desperate measures to apprehend a killer: she reanimates a no-holds-barred 20th century cop who had been sentenced to cryoprison, a cop known in an earlier century as the Demolition Man. When psychopathic killer Simon Phoenix (Wesley Snipes--Blade films) escapes cryoprison during a mandatory parole hearing, only officer Lenina Huxley (Bullock--Crash, Miss Congeniality films) has a play to stop a criminal rampage from causing havoc in her now-peaceful world: free the one man capable of stopping Phoenix--officer John Spartan (Sylvester Stallone--Rocky films, Rambo films). Now, two men from another time bring a level of nonstop action long unseen in this future, idyllic world.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video69/v4/a5/1f/eb/a51febb5-912b-94c3-76b8-e4429e6d9da3/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/demolition-man/id279386406?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1577436703",
+      "title": "The Suicide Squad (2021)",
+      "year": 2021,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "Welcome to Belle Reve, the prison with the highest mortality rate in the US of A. Where the worst Super‐Villains are kept and where they will do anything to get out— join the super‐secret, supershady Task Force X. Today’s do‐ordie assignment? Assemble a collection of cons, including Bloodsport, Peacemaker, Captain Boomerang, Ratcatcher 2, Savant, King Shark, Blackguard, Javelin , Harley Quinn. Then arm them heavily and drop them on the remote, enemy‐infused island of Corto Maltese. Trekking through a jungle with militant adversaries and guerrilla forces at every turn, the Squad is on a search‐and‐destroy mission, with only Colonel Rick Flag on the ground to make them behave…and Amanda Waller’s government techies in their ears, tracking their every move. And as always, one wrong move and they’re dead (whether at the hands of their opponents, a teammate, or Waller herself).",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/b3/74/90/b3749091-d705-e1d6-dd27-a6395f31be40/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-suicide-squad-2021/id1577436703?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1896864843",
+      "title": "Pressure (2026)",
+      "year": 2026,
+      "genres": [
+        "Thriller"
+      ],
+      "minutes": null,
+      "description": "In the 72 hours before D-Day, and with the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Group Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/7b/5e/6b/7b5e6bc5-d70d-e3ab-1074-29a0dce19557/PRESSURE_PVOD_LSR_2000x3000_Poster.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/pressure-2026/id1896864843?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1886871755",
+      "title": "The Super Mario Galaxy Movie",
+      "year": 2026,
+      "genres": [
+        "Family"
+      ],
+      "minutes": null,
+      "description": "The Super Mario Galaxy Movie finds Mario and Luigi solving everyday problems in the Mushroom Kingdom with their \"let's-a-go\" attitude. They meet a new friend in Yoshi, try to reform a miniaturized Bowser, and eagerly look forward to Peach's birthday party. A call for help sends the crew across the galaxy to face new worlds, unexpected threats, and iconic characters like Rosalina and Bowser Jr.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a3/5c/e7/a35ce775-baf8-f066-ab8e-c97a550a771d/UNI_SUPER_MARIO_GALAXY_MOVIE_THE_TH_ITUNES_EPO_WW_ARTWORK_EN_2000x3000_5BL7AB000001VT.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-super-mario-galaxy-movie/id1886871755?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-287917512",
+      "title": "Elf (2003)",
+      "year": 2003,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "One Christmas Eve a long time ago, a baby crawled into Santa's bag of toys... Raised as an elf, Buddy grows into an adult three times larger than the biggest elf--and realizes that he will never truly fit in at the North Pole. This holiday season, Buddy goes looking for his true place in the world--in New York City. Buddy finds his workaholic father…who's on Santa's \"naughty\" list, a new mother and a 10-year-old brother who doesn't believe in Santa Claus or elves. Here, now, Buddy discovers his destiny…to save Christmas for New York and the world! Starring Golden Globe and Emmy Award-nominee Will Ferrell (\"Talladega Nights: The Ballad of Ricky Bobby,\" TV's \"Saturday Night Live\"), Academy Award, Golden Globe and Emmy Award-nominee James Caan (\"The Godfather,\" \"Funny Lady\"), Golden Globe-winner and Emmy Award-nominee Bob Newhart (TV's \"Newhart,\" \"Legally Blonde 2: Red, White & Blonde\"), Golden Globe and Emmy Award-winner Edward Asner (TV's \"Lou Grant,\" \"JFK\"), Academy Award and Golden Globe-winner Mary Steenburgen (\"The Brave One,\" \"Melvin and Howard\") and Zooey Deschanel (\"Almost Famous,\" \"Failure to Launch\").",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cd/f1/29/cdf129c7-04ec-ddb0-bdde-b366295d3194/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/elf-2003/id287917512?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6816154927",
+      "title": "The Shadow's Edge",
+      "year": 2025,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "A crew of criminal prodigies disappears with billions. Desperate and outmaneuvered, the Macau police enlist the help of a police legend - retired surveillance expert. He rebuilds an elite surveillance unit to track down the elusive \"Wolf King\".",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/52/56/1a/52561aed-7394-6918-81a4-89d449fd2a92/TheShadowsEdge_iTunes_PosterArt_2000x3000.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-shadows-edge/id6816154927?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-912531897",
+      "title": "The Maze Runner",
+      "year": 2014,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "In this thrilling action-adventure based on the best-selling novel, a teenager named Thomas (Dylan O’Brien) wakes up trapped in a massive, ever-changing maze with a group of other boys who have no memory of the outside world. Facing dangerous obstacles at every turn, Thomas must piece together clues he discovers within the maze in order to figure out his true purpose—and find a way to escape.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/c7/f7/bf/c7f7bfea-ff3d-b20a-d82e-45609581ebc8/contsched.ymtisazx.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-maze-runner/id912531897?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1733624264",
+      "title": "Godzilla x Kong: The New Empire",
+      "year": 2024,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "minutes": null,
+      "description": "The epic battle continues! The cinematic Monsterverse follows up the explosive showdown of “Godzilla vs. Kong” with an all‐new adventure that pits the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence—and our own. “Godzilla x Kong: The New Empire” delves further into the histories of these Titans and their origins, as well as the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a9/b8/a6/a9b8a63d-3e27-4393-b0f5-6eb45a60d89b/a36bb5a7-3b15-411e-82dc-f836686d6467_GodzillaXKong_NewEmpire_V_DD_KA_TT_2000x3000_300dpi_EN-srgb.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/godzilla-x-kong-the-new-empire/id1733624264?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-794037306",
+      "title": "Dr. Seuss' the Cat In the Hat",
+      "year": 2003,
+      "genres": [
+        "Family"
+      ],
+      "minutes": null,
+      "description": "Get ready for the fur to fly as Dr. Seuss’ beloved tale comes to life in this very special, live-action family film starring Mike Myers, Alec Baldwin, Sean Hayes and Dakota Fanning. When two bored kids let the magical, madcap Cat in the Hat (Myers) into their home, he shows them how to have all sorts of fun and laughs while their mom is away. But when he and his crew – Thing One and Thing Two – take over the house, it’s up to the children to get things back to normal in this wild, hilarious adventure.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/ea/a8/34/eaa83403-4ecb-caba-4034-78a8ae65aa42/02293_MLNA_DrSeussCatintheHat_1400x2100.jpg/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/dr-seuss-the-cat-in-the-hat/id794037306?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-6786056552",
+      "title": "Hadestown: The Musical",
+      "year": 2026,
+      "genres": [
+        "Other"
+      ],
+      "minutes": null,
+      "description": "The genre-defying musical blends modern American folk music with New Orleans-inspired jazz to reimagine a sweeping ancient tale. Following two intertwining love stories — that of young dreamers Orpheus and Eurydice, and that of King Hades and his wife Persephone — Hadestown: The Musical invites audiences on a hell-raising journey to the underworld and back.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/fd/bb/b4/fdbbb459-1e66-54ba-219c-a0877f0bc61c/BleeckerStreet_Hadestown_Poster_2000x3000.png/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/hadestown-the-musical/id6786056552?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-268171320",
+      "title": "Platoon",
+      "year": 1986,
+      "genres": [
+        "Drama"
+      ],
+      "minutes": null,
+      "description": "Chris Taylor is a young, naive American who, upon his arrival in Vietnam, quickly discovers that he must do battle not only with the Viet Cong, but also with the gnawing fear, physical exhaustion and intense anger growing within him. While his two commanding officers draw a fine line between the war they wage against the enemy and the one they fight with each other, the conflict, chaos and hatred permeate Taylor, suffocating his realities and numbing his feelings to man's highest value... life.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/01/f2/99/01f2990f-c39b-d63c-dec5-0e9cc4e0d68a/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/platoon/id268171320?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-261128362",
+      "title": "Legally Blonde",
+      "year": 2001,
+      "genres": [
+        "Comedy"
+      ],
+      "minutes": null,
+      "description": "Elle Woods has it all. She's the president of her sorority, a Hawaiian Tropic girl, Miss June in her campus calendar, and, above all, a natural blonde. She dates the cutest fraternity boy on campus and wants nothing more than to be Mrs. Warner Huntington III. But, there's just one thing stopping Warner from popping the question: Elle is too blonde.  Growing up across the street form Aaron Spelling might mean something in LA, but nothing to Warner's East-Coast blue blood family. So, when Warner packs up for Harvard Law and reunites with an old sweetheart from prep school, Ellie rallies all her resources and gets into Harvard, determined to win him back. But law school is a far cry from the comforts of her poolside and the mall. Elle must wage the battle of her life, for her guy, for herself and for all blondes.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/8a/66/cb/8a66cbd6-e00c-4752-7178-a069a6b9c328/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/legally-blonde/id261128362?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    },
+    {
+      "id": "apple-1324419603",
+      "title": "The Greatest Showman",
+      "year": 2017,
+      "genres": [
+        "Drama"
+      ],
+      "minutes": null,
+      "description": "THE GREATEST SHOWMAN is an original musical inspired by the life of P.T. Barnum, starring Hugh Jackman.  Barnum was a visionary who rose from nothing to create the “Greatest Show on Earth,” a spectacle and celebration of his larger-than-life imagination that captivated audiences around the globe.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/8e/82/b2/8e82b23c-2cad-1f45-b586-3432fb3b5176/pr_source.lsr/115x170bb.png",
+      "url": "https://itunes.apple.com/us/movie/the-greatest-showman/id1324419603?uo=2",
+      "source": "Apple movie chart",
+      "color": "#ada0d1",
+      "symbol": "✦"
+    }
+  ]
+}
